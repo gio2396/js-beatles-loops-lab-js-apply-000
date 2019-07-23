@@ -1,8 +1,3 @@
-
-@@ -1 +1,30 @@
-'use strict'; 
-'use strict';
-
 function theBeatlesPlay(players, instruments) {
     var allPlayers = [];
     for (var i=0; i < players.length; i++) {
